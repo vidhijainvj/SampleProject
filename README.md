@@ -1,3 +1,3 @@
 # SampleProject
-tetsing project
-gdjsgfasf
+testing project
+
